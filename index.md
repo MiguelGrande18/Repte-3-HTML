@@ -1,37 +1,48 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/MiguelGrande18/Repte-3-HTML/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Trabajo HTML Give Me a Like!</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body> 
+<div class="container-fluid p-5 bg-primary text-white text-center">
+<h1>Trabajo HTML Give Me a Like!</h1>
+<p>Miguel Grande, Daniel Panella</p> 
+</div>
+<div class="container mt-5">
+<div class="row">
+<div class="col-sm-4">
+<h3>Quiénes somos?</h3>
+<p>Somos el grupo de Miguel Grande y Daniel Panella, participantes del Grupo 3 y creadores del canal Informáticos a Malas.
+<ul>
+</ul>
+</p>
+</div>
+<div class="col-sm-4">
+<h3>Con qué hicimos la página web?</h3>
+<p>Lo hacemos con la aplicación Visual Studio Code, con la ayuda de Bootstrap y con la ayuda de GitHub para publicarla (También usamos las páginas W3schools y CheatSheet de ayuda).</p>
+</div>
+<div class="col-sm-4">
+<h3>Links</h3> 
+<p>Aquí encontrarás todos los links de la página web, incluyendo nuestro canal de YouTube
+    <li> 
+        <a href="Miembros del grupo.html">Miembros del grupo</a> 
+        </li>
+        <li> 
+        <a href="Links.html">Links</a> 
+        </li>
+        <li> 
+        <a href="hola.html">Prueba HTML</a> 
+        </li>
+</p>
+</div>
+</div>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MiguelGrande18/Repte-3-HTML/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
